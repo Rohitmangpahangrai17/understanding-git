@@ -1,3 +1,3 @@
 # understanding-git
 this is for practice
-Auther-Rohit Rai
+Author-Rohit Rai
